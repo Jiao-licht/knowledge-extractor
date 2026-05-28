@@ -35,6 +35,7 @@ Knowledge Extractor 解决的是一个更具体的问题：把常见学习素材
     -> 补充摘要、关键词、待整理问题
     -> 复制或下载 Obsidian Markdown
 ```
+<img width="1280" height="713" alt="image" src="https://github.com/user-attachments/assets/8a702da6-ae38-454e-8318-8cf8f7c3d017" />
 
 ## 技术架构
 
